@@ -20,3 +20,10 @@ a:hover {
   text-align: center;
   clear: both;
 }
+.left {
+  float: left;
+  width: 70%
+  }
+  .right {
+    margin-left: 70%;
+  }
